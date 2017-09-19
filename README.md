@@ -5,3 +5,8 @@
 Anwesend sind:  
 Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz  
 
+Thema:
+*GIT
+*GitHub 
+*Markdown
+[Mastering Markdown]
