@@ -8,9 +8,9 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
 **Thema:**
 * GIT![GitHub Logo](/images/logo.png)
 * GitHub 
-* Markdown
-*[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)    
-Branches
+* Markdown    
+ [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)    
+*Branches
 
  
 
