@@ -15,6 +15,8 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
     #include <stdio.h>
 
     int main()
+    
+    
     {
     printf("hallo");
     return0;
