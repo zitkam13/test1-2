@@ -2,4 +2,6 @@
 
 ##Laboreinheit 19.9.2017
 
-Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
+Anwesend sind:  
+Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz  
+
