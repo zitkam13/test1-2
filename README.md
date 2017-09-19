@@ -10,17 +10,3 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
 * GitHub 
 * Markdown
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-
-~~~C
-    #include <stdio.h>
-
-    int main()
-    
-    {
-    
-    
-    printf("hallo");
-    return0;
-    
-    }
-~~~
