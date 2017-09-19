@@ -6,7 +6,7 @@ Anwesend sind:
 Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz  
 
 **Thema:**
-* GIT
+* GIT[GIT Logo]
 * GitHub 
 * Markdown
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -16,8 +16,10 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
 
     int main()
     
-    
     {
+    
+    
     printf("hallo");
     return0;
+    
     }
