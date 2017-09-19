@@ -10,7 +10,7 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
 * GitHub 
 * Markdown
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* Branches *
+* Branches 
 
 ~~~C
     #include <stdio.h>
