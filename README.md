@@ -11,7 +11,7 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
 * Markdown
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
+~~~C
     #include <stdio.h>
 
     int main()
@@ -23,3 +23,4 @@ Strauß,Strutz,Uhl,Waltl,Wieser,Tuttner,Zitz
     return0;
     
     }
+~~~
